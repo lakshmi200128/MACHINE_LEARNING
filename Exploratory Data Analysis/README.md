@@ -106,12 +106,7 @@ Matplotlib
 
 Jupyter Notebook
 
-📁 Project Structure
-Exploratory Data Analysis/
-│
-├── EDA CODE.ipynb
-├── README.md
-└── tested.csv
+
 
 🚀 Next Steps
 
